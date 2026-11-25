@@ -1,4 +1,4 @@
-[<img _ngcontent-c2="" src="" style="background-color: transparent;">](https://pinny888.github.io)
+[<img _ngcontent-c2="" src="" style="background-color: transparent;">](https://vipinnacle.github.io)
 
 [English ](index.md)\|[ Chinese ](index_ZH.md)\|[ Russian](index_RU.md)
 
@@ -14,11 +14,11 @@
 
 #### The API reference documentation:
 
-**[Lines API](https://pinny888.github.io/docs?api=lines)**
+**[Lines API](https://vipinnacle.github.io/docs?api=lines)**
 
-**[Bets API](https://pinny888.github.io/docs?api=bets)**
+**[Bets API](https://vipinnacle.github.io/docs?api=bets)**
 
-**[Customer API](https://pinny888.github.io/docs?api=customer)**
+**[Customer API](https://vipinnacle.github.io/docs?api=customer)**
 
 
 # Overview
@@ -78,7 +78,7 @@ All place bet requests support deduplication.
 You can follow [VIPinnacle status page](https://status.pinnacle888.com/) and subscribe to get the notifications on API status.  
 
 
-**[VIPinnacle API Open API Specification](https://github.com/pinny888/api-spec/blob/main/OpenAPI)** is hosted on GitHub.
+**[VIPinnacle API Open API Specification](https://github.com/vipinnacle/api-spec/blob/main/OpenAPI)** is hosted on GitHub.
 
 
 # Disclaimer

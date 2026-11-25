@@ -1,4 +1,4 @@
-[<img _ngcontent-c2="" src="" style="background-color: transparent;">](https://pinny888.github.io)
+[<img _ngcontent-c2="" src="" style="background-color: transparent;">](https://vipinnacle.github.io)
 
 [English ](index.md)\|[ Chinese ](index_ZH.md)\|[ Russian](index_RU.md)
 
@@ -14,11 +14,11 @@
 
 #### Документация справочника API:
 
-**[Lines API](https://pinny888.github.io/docs?api=lines)**
+**[Lines API](https://vipinnacle.github.io/docs?api=lines)**
 
-**[Bets API](https://pinny888.github.io/docs?api=bets)**
+**[Bets API](https://vipinnacle.github.io/docs?api=bets)**
 
-**[Customer API](https://pinny888.github.io/docs?api=customer)**
+**[Customer API](https://vipinnacle.github.io/docs?api=customer)**
 
 
 # Обзор
@@ -78,7 +78,7 @@ VIPinnacle API поддерживает HTTP-компрессию. Мы наст
 Вы можете следить за [страницей статуса VIPinnacle](https://status.pinnacle888.com/) и подписаться на уведомления о статусе API. 
 
 
-**[Спецификация VIPinnacle API Open API ](https://github.com/pinny888/api-spec/blob/main/OpenAPI)** размещена на GitHub.
+**[Спецификация VIPinnacle API Open API ](https://github.com/vipinnacle/api-spec/blob/main/OpenAPI)** размещена на GitHub.
 
 
 # Предупреждение

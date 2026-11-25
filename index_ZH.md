@@ -1,4 +1,4 @@
-[<img _ngcontent-c2="" src="" style="background-color: transparent;">](https://pinny888.github.io)
+[<img _ngcontent-c2="" src="" style="background-color: transparent;">](https://vipinnacle.github.io)
 
 [English ](index.md)\|[ Chinese ](index_ZH.md)\|[ Russian](index_RU.md)
 
@@ -14,11 +14,11 @@
 
 #### API参考文档:
 
-**[Lines API](https://pinny888.github.io/docs?api=lines)**
+**[Lines API](https://vipinnacle.github.io/docs?api=lines)**
 
-**[Bets API](https://pinny888.github.io/docs?api=bets)**
+**[Bets API](https://vipinnacle.github.io/docs?api=bets)**
 
-**[Customer API](https://pinny888.github.io/docs?api=customer)**
+**[Customer API](https://vipinnacle.github.io/docs?api=customer)**
 
 
 # 概述
@@ -78,7 +78,7 @@ VIPinnacle API支持HTTP压缩。我们强烈建议使用压缩，这将提供�
 您可以关注 [VIPinnacle 状态页面](https://status.pinnacle888.com/)并订阅以获取有关 API 状态的通知。
 
 
-**[VIPinnacle的开放API规](https://github.com/pinny888/api-spec/blob/main/OpenAPI)**范托管在GitHub上。
+**[VIPinnacle的开放API规](https://github.com/vipinnacle/api-spec/blob/main/OpenAPI)**范托管在GitHub上。
 
 
 # 免责声明
