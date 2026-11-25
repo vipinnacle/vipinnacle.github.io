@@ -40,11 +40,11 @@ Authorization: Basic dXNlcm5hbWU6cGFzc3dvcmQ=
 ```
 
 
-请注意，为了访问Pinnacle888 API，您必须拥有一个已充值的资金账户。
+请注意，为了访问VIPinnacle API，您必须拥有一个已充值的资金账户。
 
 #### 数据格式
 
-Pinnacle888 API仅支持JSON格式。
+VIPinnacle API仅支持JSON格式。
 HTTP标头的Accept字段必须设置为：
 ```
     Accept: application/json
@@ -57,7 +57,7 @@ POST HTTP 请求必须具有 JSON 正文内容，并且必须设置 Content-Type
 
 #### 压缩 
 
-Pinnacle888 API支持HTTP压缩。我们强烈建议使用压缩，这将提供最佳性能。
+VIPinnacle API支持HTTP压缩。我们强烈建议使用压缩，这将提供最佳性能。
 
 请确保设置User-Agent HTTP标头，否则压缩可能无法正常工作。
 
@@ -75,14 +75,14 @@ Pinnacle888 API支持HTTP压缩。我们强烈建议使用压缩，这将提供�
 
 
 # API状态
-您可以关注 [Pinnacle888 状态页面](https://status.pinnacle888.com/)并订阅以获取有关 API 状态的通知。
+您可以关注 [VIPinnacle 状态页面](https://status.pinnacle888.com/)并订阅以获取有关 API 状态的通知。
 
 
-**[Pinnacle888的开放API规](https://github.com/pinny888/api-spec/blob/main/OpenAPI)**范托管在GitHub上。
+**[VIPinnacle的开放API规](https://github.com/pinny888/api-spec/blob/main/OpenAPI)**范托管在GitHub上。
 
 
 # 免责声明
 
- Pinnacle888 对以任何目的使用 API 不承担任何责任，API 以“原样”和“可用”为基础提供，不提供任何明示或暗示的保证，包括但不限于适销性、适用于特定用途或不侵权的暗示保证。
+ VIPinnacle 对以任何目的使用 API 不承担任何责任，API 以“原样”和“可用”为基础提供，不提供任何明示或暗示的保证，包括但不限于适销性、适用于特定用途或不侵权的暗示保证。
 
  

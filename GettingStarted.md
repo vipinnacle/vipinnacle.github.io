@@ -7,7 +7,7 @@
 
 To get started you would need to create an account.
 
-Please note that in order to access Pinnacle888 API the account must be funded.
+Please note that in order to access VIPinnacle API the account must be funded.
 
 ### Step 2 - Get a List of Offered Sports and Leagues
 
