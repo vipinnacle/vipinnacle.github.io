@@ -74,10 +74,6 @@ VIPinnacle API поддерживает HTTP-компрессию. Мы наст
 Все запросы на размещение ставки поддерживают дедупликацию.
 
 
-# Статус API
-Вы можете следить за [страницей статуса VIPinnacle](https://status.pinnacle888.com/) и подписаться на уведомления о статусе API. 
-
-
 **[Спецификация VIPinnacle API Open API ](https://github.com/vipinnacle/api-spec/blob/main/OpenAPI)** размещена на GitHub.
 
 

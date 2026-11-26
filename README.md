@@ -80,10 +80,6 @@ The API reference documentation:
 
 [Fair Use Policy](FairUsePolicy.md)
 
-# API Status
-You can follow [VIPinnacle status page](https://status.pinnacle888.com/) and subscribe to get the notifications on API status.  
-
-
 # Disclaimer
 
  VIPinnacle is not liable for use of the API for any purpose. The API is provided on an “as is” and “as available” basis, without warranties of any kind, either expressed or implied, including, without limitation, implied warranties of merchantability and fitness for a particular purpose or non-infringement.

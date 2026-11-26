@@ -74,10 +74,6 @@ VIPinnacle API支持HTTP压缩。我们强烈建议使用压缩，这将提供�
 所有下注请求都支持重复数据删除功能。
 
 
-# API状态
-您可以关注 [VIPinnacle 状态页面](https://status.pinnacle888.com/)并订阅以获取有关 API 状态的通知。
-
-
 **[VIPinnacle的开放API规](https://github.com/vipinnacle/api-spec/blob/main/OpenAPI)**范托管在GitHub上。
 
 

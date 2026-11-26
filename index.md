@@ -74,10 +74,6 @@ If the bet is accepted, we store the `uniqueRequestId` in the system for 30 min.
 All place bet requests support deduplication.
 
 
-# API Status
-You can follow [VIPinnacle status page](https://status.pinnacle888.com/) and subscribe to get the notifications on API status.  
-
-
 **[VIPinnacle API Open API Specification](https://github.com/vipinnacle/api-spec/blob/main/OpenAPI)** is hosted on GitHub.
 
 
